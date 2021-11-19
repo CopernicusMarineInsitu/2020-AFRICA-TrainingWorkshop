@@ -2,7 +2,7 @@
 
 _Python code snippets illustrating how to use ERDDAP tabledap protocol to discover and download insitu data available in CMEMS_
 
-<div style="text-align: center;"><img src="discovery.png" width="400" style="max-width:100%;"></div>
+<div style="text-align: center;"><img src="discovery.png" width="800" style="max-width:100%;"></div>
 
 ## Instalation 🔧
 
