@@ -13,3 +13,4 @@ dependencies:
     - july
     - openpyxl
     - lxml
+    - html5lib
