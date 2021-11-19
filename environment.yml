@@ -1,0 +1,13 @@
+name: insitu-AFRICA-2021-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - IPython
+    - pandas
+    - matplotlib
+    - plotly-express
+    - july
